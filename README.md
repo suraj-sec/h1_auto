@@ -1,2 +1,2 @@
 # h1_auto
-hackerone automation
+hackerone automation using lambda function and secret manager. 
